@@ -1,0 +1,1 @@
+{"version":3,"sources":["/Users/extra/Desktop/contactmanager/src/App.css"],"names":[],"mappings":"AAAA,eAAmB,wBAAA,CACnB,QAAU,aAAA,CAAgB,aAAA,CAAgB,cAAA","file":"main.aef4759f.chunk.css","sourcesContent":["html, body, .App { background-color: #f7f7f7 }\n.card i { font-size: 70%; margin: 0 10px; cursor: pointer }"]}
